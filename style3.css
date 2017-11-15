@@ -123,6 +123,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#88bfe8', end
     display: flex;
     flex-wrap: wrap;
     padding-left: 20px;
+    margin:40px;	
  }
 
  .lol{
